@@ -1,4 +1,4 @@
-module github.com/myrstack/go-wam
+module github.com/Allod-Solutions/go-wam
 
 go 1.25.0
 

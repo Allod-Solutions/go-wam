@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/myrstack/go-wam"
-	"github.com/myrstack/go-wam/internal/testbackend"
+	"github.com/Allod-Solutions/go-wam"
+	"github.com/Allod-Solutions/go-wam/internal/testbackend"
 )
 
 // ── mock plumbing ─────────────────────────────────────────────────────────────

@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/myrstack/go-wam"
+	"github.com/Allod-Solutions/go-wam"
 )
 
 // mockProvider is a ProviderHandle backed by in-memory state.
